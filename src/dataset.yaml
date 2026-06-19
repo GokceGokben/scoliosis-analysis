@@ -1,0 +1,11 @@
+# Main path (update this path to your dataset folder, CAUTION: use backslash \ instead of forward slash /)
+path: '[YOUR_PATH]/Data/processed'  # Update this path to your dataset folder
+
+# Image directories
+train: images/train
+val: images/valid
+test: images/test
+
+# Class Information
+names:
+  0: vertebra 

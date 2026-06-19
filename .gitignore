@@ -1,0 +1,25 @@
+# Python chache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (If you are using one)
+venv/
+env/
+.env
+
+# YOLO and Machine Learning weight files
+*.pt
+*.onnx
+runs/
+
+# Data set folder 
+Data/processed/
+Data/raw/
+*.cache
+
+# Operating system remnants
+.DS_Store
+Thumbs.db
+
+

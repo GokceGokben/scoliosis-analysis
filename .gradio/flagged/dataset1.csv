@@ -1,0 +1,4 @@
+1. Upload X-ray Image,2. Processed Result,3. System Report,timestamp
+.gradio\flagged\1. Upload X-ray Image\53ea6ceb70754667f648\Ekran görüntüsü 2026-06-19 205715.png,.gradio\flagged\2. Processed Result\a135aabb101bbbaa68f0\image.webp,"Analysis is successful!
+Predicted Scoliosis Angle: 6.22°
+Detected Vertebrae Count: 10",2026-06-19 21:13:54.476057
