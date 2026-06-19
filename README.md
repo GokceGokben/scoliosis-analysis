@@ -52,17 +52,17 @@ An end-to-end computer vision application that automatically detects spinal vert
 The model was evaluated on the validation set, demonstrating robust localization of vertebrae structures. Below are the primary convergence metrics and confidence evaluations extracted from the training cycle.
 
 ### Training & Validation Loss
-![Training Results](runs\detect\train\results.png)
+![Training Results](assets\results.png)
 
 ### Inference Evaluation
 | F1-Confidence Curve | Precision-Recall Curve |
 | :---: | :---: |
-| <img src="runs\detect\train\BoxF1_curve.png" width="400"> | <img src="runs\detect\train\BoxPR_curve.png" width="400"> |
+| <img src="assets\BoxF1_curve.png" width="400"> | <img src="assets\BoxPR_curve.png" width="400"> |
 
 ### Dataset & Predictions
 | Normalized Confusion Matrix | Dataset Label Distribution |
 | :---: | :---: |
-| <img src="runs\detect\train\confusion_matrix_normalized.png" width="400"> | <img src="runs\detect\train\labels.jpg" width="400"> |
+| <img src="assets\confusion_matrix_normalized.png" width="400"> | <img src="assets\labels.jpg" width="400"> |
 
 ## Dataset Attribution
 
